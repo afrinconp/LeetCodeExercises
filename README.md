@@ -1,5 +1,5 @@
 # LeetCodeExercises
-In this repository, I show some of the solutions to the leetcode exercises from the website: [LeetCode](https://pages.github.com/) that I have made. I decided to solve it just for fun and to improve my code skills.
+In this repository, I show some of the solutions to the leetcode exercises from the website: [LeetCode](https://leetcode.com/problemset/all/) that I have made. I decided to solve it just for fun and to improve my code skills.
 
 Feel free to comment if you have any other solution for one of the problems (I'd be grateful if you summited a code that takes less time)
 
