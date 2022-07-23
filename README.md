@@ -16,7 +16,7 @@ Feel free to comment if you have any other solution for one of the problems (I'd
 
 7.[Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 
-8.[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+8.[String to Integer - atoi](https://leetcode.com/problems/string-to-integer-atoi/)
 
 9.[Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 
