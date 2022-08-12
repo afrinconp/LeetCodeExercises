@@ -20,4 +20,6 @@ Feel free to comment if you have any other solution for one of the problems (I'd
 
 9.[Palindrome Number](https://leetcode.com/problems/palindrome-number/) ------ [Solution](https://github.com/afrinconp/LeetCodeExercises/tree/main/Solutions)
 
+11.[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) ------ [Solution](https://github.com/afrinconp/LeetCodeExercises/tree/main/Solutions)
+
 15.[3Sum](https://leetcode.com/problems/3sum/) ------ [Solution](https://github.com/afrinconp/LeetCodeExercises/tree/main/Solutions)
