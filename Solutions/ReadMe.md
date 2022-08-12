@@ -1,1 +1,1 @@
-# You can find the solutions of the exercise in the folder
+# You can find the solutions of the exercises in the folder
