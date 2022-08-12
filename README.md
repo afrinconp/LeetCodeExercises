@@ -4,20 +4,20 @@ In this repository, I show some of the solutions to the leetcode exercises from 
 Feel free to comment if you have any other solution for one of the problems (I'd be grateful if you summited a code that takes less time)
 
 
-1.[Two Sum](https://leetcode.com/problems/two-sum/)
+1.[Two Sum](https://leetcode.com/problems/two-sum/) ------ [Solution](https://github.com/afrinconp/LeetCodeExercises/tree/main/Solutions)
 
-2.[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+2.[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) ------ [Solution](https://github.com/afrinconp/LeetCodeExercises/tree/main/Solutions)
 
-3.[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+3.[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ------ [Solution](https://github.com/afrinconp/LeetCodeExercises/tree/main/Solutions)
 
-5.[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/solution/)
+5.[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/solution/) ------ [Solution](https://github.com/afrinconp/LeetCodeExercises/tree/main/Solutions)
 
-6.[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion)
+6.[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) ------ [Solution](https://github.com/afrinconp/LeetCodeExercises/tree/main/Solutions)
 
-7.[Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+7.[Reverse Integer](https://leetcode.com/problems/reverse-integer/) ------ [Solution](https://github.com/afrinconp/LeetCodeExercises/tree/main/Solutions)
 
-8.[String to Integer - (atoi) ](https://leetcode.com/problems/string-to-integer-atoi/)
+8.[String to Integer - (atoi) ](https://leetcode.com/problems/string-to-integer-atoi/) ------ [Solution](https://github.com/afrinconp/LeetCodeExercises/tree/main/Solutions)
 
-9.[Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+9.[Palindrome Number](https://leetcode.com/problems/palindrome-number/) ------ [Solution](https://github.com/afrinconp/LeetCodeExercises/tree/main/Solutions)
 
-15.[3Sum](https://leetcode.com/problems/3sum/)
+15.[3Sum](https://leetcode.com/problems/3sum/) ------ [Solution](https://github.com/afrinconp/LeetCodeExercises/tree/main/Solutions)
