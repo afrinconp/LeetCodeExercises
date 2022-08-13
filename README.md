@@ -22,4 +22,6 @@ Feel free to comment if you have any other solution for one of the problems (I'd
 
 11.[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) ------ [Solution](https://github.com/afrinconp/LeetCodeExercises/tree/main/Solutions)
 
+12.[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) ------ [Solution](https://github.com/afrinconp/LeetCodeExercises/tree/main/Solutions)
+
 15.[3Sum](https://leetcode.com/problems/3sum/) ------ [Solution](https://github.com/afrinconp/LeetCodeExercises/tree/main/Solutions)
