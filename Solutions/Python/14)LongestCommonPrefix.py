@@ -23,8 +23,6 @@ class Solution:
                 if uno[i] == strs[j][i]:
                     palabra=uno[i]
                 else:
-                    palabra=""
-                    union=""
                     semaforo="rojo"
                 j=j+1
             if semaforo=="rojo":
