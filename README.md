@@ -26,4 +26,6 @@ Feel free to comment if you have any other solution for one of the problems (I'd
 
 13.[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) ------ [Solution](https://github.com/afrinconp/LeetCodeExercises/tree/main/Solutions)
 
+14.[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) ------ [Solution](https://github.com/afrinconp/LeetCodeExercises/tree/main/Solutions)
+
 15.[3Sum](https://leetcode.com/problems/3sum/) ------ [Solution](https://github.com/afrinconp/LeetCodeExercises/tree/main/Solutions)
